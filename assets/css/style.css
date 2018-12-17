@@ -1,0 +1,28 @@
+
+.bod{
+    background-image: url("../images/sfBg.png");
+}
+
+.whiteFont{
+    color: white;
+}
+
+.fighterDiv{
+    margin: 0 0 10px 0;
+}
+
+.fighterImg{
+    width:60%;
+}
+
+.fighterImgOpp{
+    width:30%;
+}
+
+.btn-danger{
+    font-size:25px;
+}
+
+.hp{
+    font-size: 30px;
+}
